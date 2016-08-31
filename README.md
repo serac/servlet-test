@@ -1,7 +1,9 @@
 # servlet-test
 
-Simple project that demonstrates that yes, the Java servlet API does handle
-querystring parameter decoding internally. I keep forgetting :(
+Simple project that demonstrates that, yes, the Java servlet API does
+indeed handle querystring parameter decoding internally.
+
+I keep forgetting :(
 
 Simply execute the following to get a running Jetty container that accepts
 requests at http://localhost:8080:
