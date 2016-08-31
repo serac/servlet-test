@@ -6,7 +6,7 @@ indeed handle querystring parameter decoding internally.
 I keep forgetting :(
 
 Simply execute the following to get a running Jetty container that accepts
-requests at http://localhost:8080:
+requests on localhost:
 
     mvn clean package
 
